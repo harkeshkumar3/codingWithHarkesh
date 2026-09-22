@@ -1,0 +1,9 @@
+
+2
+java:S1116"Remove this empty statement.(Šú¡§
+Q	java:S125"<This block of commented-out lines of code should be removed.(²ÒÕ
+Q	java:S125"<This block of commented-out lines of code should be removed.(–³±
+M	java:S106"9Replace this use of System.out or System.err by a logger.(Ù¥ÒW
+Q	java:S125"<This block of commented-out lines of code should be removed.(€¢ÔŽ
+D
+java:S1128".Remove this unused import 'java.util.Objects'.(¼¸õ›

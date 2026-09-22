@@ -27,6 +27,7 @@ class Solution1 {
                 maxLength = Math.max(maxLength, right - left + 1);
                 right++;
             } else {
+                System.out.println(s.charAt(left));
                 seen.remove(s.charAt(left));
                 left++;
             }

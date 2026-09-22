@@ -1,4 +1,4 @@
-package com.ds;
+design package com.ds;
 
 public class BinarySearchAlgo {
 
